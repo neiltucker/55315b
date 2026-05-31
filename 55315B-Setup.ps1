@@ -404,7 +404,7 @@ $CustomScript = $CustomScript -replace '%%BASE64_DBSCRIPT%%', $EncodedDbScript
 
 # 6. Execute Run Command on the VM
 Write-Host "Applying Run Command to configure Student accounts, lab files, databases, SSMS 22, and SQL Security..."
-Write-Host "Note: This extension may take 10-15 minutes to complete. Please wait..."
+Write-Host "Note: This extension may take 30 minutes to complete. Please wait..."
 
 Invoke-AzVMRunCommand `
     -ResourceGroupName $ResourceGroupName `
