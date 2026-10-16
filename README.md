@@ -11,7 +11,7 @@
 
 This three-day instructor-led course is aimed at people looking to move into a database professional role or whose job role is expanding to encompass database elements. The course describes fundamental database concepts including database types, database languages, and database designs, with a focus on SQL Server 2025 and SSMS 22. Students gain hands-on experience exploring, querying, designing, and managing SQL Server databases using industry-standard techniques.
 
-> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time to explore relational database architecture, investigate normalization principles through Third Normal Form, and review T-SQL object creation including views, constraints, and stored procedures.
+> **AI Chat Assistant:** This course features an integrated, interactive **AI Tutor** available 24/7 directly within the courseware platform at no additional cost. Learners can ask questions in real time to explore relational database architecture, investigate normalization principles through Third Normal Form, review T-SQL object creation including views, constraints, and stored procedures, and all other course topics.
 
 ---
 
